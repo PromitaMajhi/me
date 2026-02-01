@@ -166,6 +166,15 @@ function headerMenu() {
     });
   
 
+  // Close menu when a link is clicked
+    menu.querySelectorAll(".menu-item a").forEach((link) => {
+        link.addEventListener("click", () => {
+             if(menu.classList.contains("open")){
+                 toggleMenu();
+             }
+        });
+    });
+
   //when resizing window
   window.addEventListener("resize", function(){
     if(this.innerWidth > menuCollapseBreakpoint && menu.classList.contains("open")){
