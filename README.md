@@ -1,6 +1,6 @@
-# Responsive-LMS-Website-using-HTML-CSS-JavaScript-Bootstrap-5-Shuvo
+# Portfolio - Promita Majhi
 
--Website link here:  https://engrshuvodas.github.io/LMS-POINT
+- Website link: https://github.com/PromitaMajhi
 
 Welcome to the "Responsive LMS Website using HTML, CSS, JavaScript, and Bootstrap 5" repository! This project showcases a comprehensive Learning Management System (LMS) website developed using a combination of cutting-edge web technologies.
 

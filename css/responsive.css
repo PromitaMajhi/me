@@ -228,3 +228,19 @@
 
 
 
+
+/* Responsive adjustments for new Skills/Portfolio Sections */
+@media(max-width: 767px){
+    .services-grid {
+        grid-template-columns: 1fr; /* Single column on mobile */
+        gap: 20px;
+        padding: 0;
+    }
+    .service-card {
+        padding: 30px 20px;
+    }
+    .portfolio-img {
+        height: 180px;
+    }
+}
+
